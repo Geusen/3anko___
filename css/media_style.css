@@ -7,8 +7,7 @@ body {
 
 header {
   background-color: white;
-  max-width: 1100px;
-  width: 100%;
+  width: 1100px;
 }
 
 img.title {
@@ -27,8 +26,7 @@ img.header_back {
 
 nav.header_menu {
   display: block;
-  max-width: 1100px;
-  width: 100%;
+  width: 1100px;
   max-height: 64.5px;
   position: relative;
   top: 1.6px;
@@ -209,8 +207,7 @@ a.side_btn:hover {
 div.home{
   display: block;
   padding: 5px;
-  max-width: 880px;
-  width: 77.6%;
+  width: 880px;
   height: 1800px;  /*サイトの長さ*/
   background: white;
 }
