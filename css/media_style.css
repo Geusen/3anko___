@@ -209,6 +209,7 @@ div.home{
   padding: 5px;
   width: 880px;
   height: 1800px;  /*サイトの長さ*/
+  margin-left: 210px;
   background: white;
 }
 
